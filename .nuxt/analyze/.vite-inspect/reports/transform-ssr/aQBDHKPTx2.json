@@ -1,0 +1,17 @@
+{
+  "resolvedId": "virtual:nuxt:/home/nike/tapigo1/newTapigo2/nuxt-tap1/.nuxt/css.mjs",
+  "transforms": [
+    {
+      "name": "__load__",
+      "result": "",
+      "start": 1708432169261,
+      "end": 1708432169261
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1708432169261,
+      "end": 1708432169261,
+      "order": "normal"
+    }
+  ]
+}
